@@ -1,6 +1,6 @@
 {
   "name": "rds-format-log",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Neatly formatted logging",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RanDumSocks/rds-format-log/issues"
   },
-  "homepage": "https://github.com/RanDumSocks/rds-format-log#readme"
+  "homepage": "https://github.com/RanDumSocks/rds-format-log#readme",
+  "files": [
+    "/profiles/default.json"
+  ]
 }

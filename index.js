@@ -7,7 +7,7 @@ exports._profile = undefined
 exports._loadProfile = function() {
   if (!exports._profile) {
     var fs = require('fs')
-    exports._profile = JSON.parse(fs.readFileSync(`./profiles/${exports._settings.profile}.json`, 'utf8'))
+    exports._profile = JSON.parse(fs.readFileSync(`./node_modules/rds-format-log/profiles/${exports._settings.profile}.json`, 'utf8'))
 
     var maxTagLength = 0
     for (const type in exports._profile) {
