@@ -13,7 +13,7 @@
   "keywords": [
     "logging"
   ],
-  "author": "Justin Chance <justinchance@randumsocks.com> (https://randumsocks.com)",
+  "author": "Justin Chance <npm@randumsocks.com> (https://randumsocks.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RanDumSocks/rds-format-log/issues"
