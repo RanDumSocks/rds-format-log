@@ -1,0 +1,33 @@
+{
+  "terminalDefault": "\u001B[39m",
+  "info": {
+    "tag": "Info",
+    "decimalColor": 12763842,
+    "terminalColor": "\u001B[97m"
+  },
+  "error": {
+    "tag": "Error",
+    "decimalColor": 16711680,
+    "terminalColor": "\u001B[31m"
+  },
+  "system": {
+    "tag": "System",
+    "decimalColor": 4409855,
+    "terminalColor": "\u001B[34m"
+  },
+  "ai": {
+    "tag": "AI",
+    "decimalColor": 12793599,
+    "terminalColor": "\u001B[35m"
+  },
+  "twitter": {
+    "tag": "Twitter",
+    "decimalColor": 44270,
+    "terminalColor": "\u001B[36m"
+  },
+  "message": {
+    "tag": "Message",
+    "decimalColor": 5898036,
+    "terminalColor": "\u001B[92m"
+  }  
+}

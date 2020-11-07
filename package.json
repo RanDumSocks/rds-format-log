@@ -1,0 +1,22 @@
+{
+  "name": "rds-format-log",
+  "version": "0.1.0",
+  "description": "Neatly formatted logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanDumSocks/rds-format-log.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "Justin Chance <justinchance@randumsocks.com> (https://randumsocks.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RanDumSocks/rds-format-log/issues"
+  },
+  "homepage": "https://github.com/RanDumSocks/rds-format-log#readme"
+}
